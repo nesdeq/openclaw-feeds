@@ -5,6 +5,7 @@ RSS news aggregator skill. Fetches headlines from curated feeds across three cat
 [![GitHub](https://img.shields.io/badge/GitHub-openclaw--feeds-blue)](https://github.com/nesdeq/openclaw-feeds)
 [![Version](https://img.shields.io/badge/version-1.0.0-green)](https://github.com/nesdeq/openclaw-feeds)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/nesdeq/openclaw-feeds/blob/main/LICENSE)
+[![AgentAudit Security](https://img.shields.io/badge/AgentAudit-Safe-brightgreen?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxTDMgNXY2YzAgNS41NSAzLjg0IDEwLjc0IDkgMTIgNS4xNi0xLjI2IDktNi40NSA5LTEyVjVsLTktNHoiLz48L3N2Zz4=)](https://www.agentaudit.dev/skills/openclaw-feeds)
 
 ---
 
